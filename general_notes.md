@@ -1,15 +1,15 @@
 When creating a new project, create a new repository.
-    mkdir project_name
+> mkdir project_name
 To initialise a git repo in the root of the folder.
-    git init
+> git init
 Create a new file.
-    touch file_name.ext
+> touch file_name.ext
 To see which files git knows exist - if you create a new directory but nothing inside, git will not register it. 
-    git status
+> git status
 To add files to the staging environment (index).
-    git add <filename>
+> git add <filename>
 To upload your files onto GitHub
-    git commit -m "Useful message about what changes you have made"
+> git commit -m "Useful message about what changes you have made"
 Branches allow you to move between states of a project.
     eg. You can add a new page to your website without affecting the main part of the project. Once you are done, you can merge your changes into the primary branch. 
 To create a new branch off the primary branch.
