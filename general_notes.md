@@ -19,3 +19,7 @@ Hash codes are unique identifiers for that specific commit. Useful for referring
 When working in the primary branch, show all the files that have changed and how they've changed. `git pull` </br>
 See all new commits.`git log` </br>
 To switch back to the primary branch. `git checkout master` </br>
+
+# Coding in C
+## Introduction
+### Structure
